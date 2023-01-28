@@ -1,0 +1,13 @@
+All the Sort Algorithms and GUI codes are refered from "https://www.geeksforgeeks.org/"
+Search Algorithms are done on my own from scratch
+
+
+Reference:
+1. https://www.geeksforgeeks.org/sorting-algorithm-visualization-merge-sort/
+2. https://www.geeksforgeeks.org/merge-sort/
+3. https://www.geeksforgeeks.org/python-program-for-quicksort/
+4. https://www.geeksforgeeks.org/python-program-for-insertion-sort/
+5. https://www.geeksforgeeks.org/python-program-for-bubble-sort/
+6. https://www.geeksforgeeks.org/python-program-for-selection-sort/
+7. https://www.geeksforgeeks.org/python-program-for-heap-sort/
+8. https://www.geeksforgeeks.org/quicksort-using-random-pivoting/
